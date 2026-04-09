@@ -1,0 +1,3 @@
+﻿Build and brand the new Digibizz Student LMS Expo app.
+
+Implement the student-only mobile experience with robust API payload handling, refreshed Digibizz branding assets, and EAS APK build configuration.
